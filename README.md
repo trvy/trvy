@@ -4,11 +4,11 @@
 
 ### Data Science Student · Agent AI · Physical AI · Computer Vision · Tabular ML
 
-Sophomore student at University of Information Technology (VNU) · Ho Chi Minh City, Vietnam
+Second-year student at University of Information Technology (VNU) · Ho Chi Minh City, Vietnam
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-username)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto: 25522110@gm.uit.edu.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/trieu-vy-nguyen)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nguynthtriuvy)
 
 </div>
 
@@ -49,7 +49,7 @@ A research study on whether metric 3D body features from an RGB-D camera (OAK-D-
 
 ---
 
-### 🏆 2. AISC 2026: [Project Name]
+### 🏆 2. AISC 2026: CUSTOMER RADAR
 **Team project** · *Finalist, finals in December 2026*
 
 [One or two sentences: what problem your team solves, who it is for, and the main idea of the solution.]
@@ -128,12 +128,9 @@ Contributed to the website of **Multione**, a Vietnamese media and communication
 
 ## 📫 Contact
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-link](https://linkedin.com/in/your-link)
-- 📊 Kaggle: [your-username](https://www.kaggle.com/your-username)
+- 📧 Email: 25522110@gm.uit.edu.vn
+- 💼 LinkedIn: [your-link](https://www.linkedin.com/in/trieu-vy-nguyen/)
+- 📊 Kaggle: [your-username](https://www.kaggle.com/nguynthtriuvy)
 
-<div align="center">
-
-*Open to research collaboration and internships in AI, Computer Vision and Data Science.*
 
 </div>
