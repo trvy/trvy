@@ -4,10 +4,10 @@
 
 ### Data Science Student · Agent AI · Physical AI · Computer Vision · Tabular ML
 
-Second-year student at University of Information Technology (VNU) · Ho Chi Minh City, Vietnam
+Second-year student at University of Information Technology (UIT), VNU-HCM · Ho Chi Minh City, Vietnam
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto: 25522110@gm.uit.edu.vn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/trieu-vy-nguyen)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:25522110@gm.uit.edu.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trieu-vy-nguyen/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nguynthtriuvy)
 
 </div>
@@ -49,7 +49,7 @@ A research study on whether metric 3D body features from an RGB-D camera (OAK-D-
 
 ---
 
-### 🏆 2. AISC 2026: CUSTOMER RADAR
+### 🏆 2. AISC 2026: Customer Radar
 **Team project** · *Finalist, finals in December 2026*
 
 [One or two sentences: what problem your team solves, who it is for, and the main idea of the solution.]
@@ -59,8 +59,6 @@ A research study on whether metric 3D body features from an RGB-D camera (OAK-D-
 - **Outcome:** [concrete result, e.g. advanced to the finals among N teams]
 
 **Tech:** `[tech 1]` · `[tech 2]` · `[tech 3]`
-
-[Repository](https://github.com/your-username/repo) · [Demo](https://link-demo)
 
 ---
 
@@ -75,7 +73,7 @@ Predicting passenger satisfaction from flight and service features in a Kaggle P
 
 **Tech:** `Python` · `pandas` · `scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost`
 
-[Notebook / Repository](https://github.com/your-username/repo) · [Kaggle](https://www.kaggle.com/your-username)
+[Kaggle profile](https://www.kaggle.com/nguynthtriuvy)
 
 ---
 
@@ -129,8 +127,5 @@ Contributed to the website of **Multione**, a Vietnamese media and communication
 ## 📫 Contact
 
 - 📧 Email: 25522110@gm.uit.edu.vn
-- 💼 LinkedIn: [your-link](https://www.linkedin.com/in/trieu-vy-nguyen/)
-- 📊 Kaggle: [your-username](https://www.kaggle.com/nguynthtriuvy)
-
-
-</div>
+- 💼 LinkedIn: [trieu-vy-nguyen](https://www.linkedin.com/in/trieu-vy-nguyen/)
+- 📊 Kaggle: [nguynthtriuvy](https://www.kaggle.com/nguynthtriuvy)
